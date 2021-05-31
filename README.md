@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonioFBBarros
-- 👀 I’m interested in Ciber Security Software 
-- 🌱 I’m currently learning Ciber Security and Forensics Analyasis at Instituo Politécnico de Leiria 
+- 👀 I’m interested in Cyber Security Software 
+- 🌱 I’m currently learning Cyber Security and Forensics Analysis at Instituto Politécnico de Leiria 
 - 📫 How to reach me at https://www.linkedin.com/in/ant%C3%B3nio-barros-5645471a3/ 
 
 <!---
